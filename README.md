@@ -28,12 +28,4 @@ This project is a mobile-style game inspired by the popular "Color Switch" game,
 **Outcome:**  
 The project successfully created a functional Color Switch game with dynamic and increasingly difficult levels. It is fully playable, with intuitive controls and engaging gameplay that keeps players challenged as they progress through increasingly difficult levels.
 
-**Future Improvements:**  
-- **Leaderboards** and online scoring system integration.
-- **Power-ups and Special Features** (e.g., temporary invincibility, slower obstacles).
-- **Additional Levels and Obstacles** to add variety and keep the gameplay fresh.
-- **Polished Audio and Visuals** for a more immersive experience.
-
----
-
-This brief bio captures the essence of the project, highlighting its development process, technical details, and future goals.
+Link to access game: https://twill4908.github.io/ThisGamIsLit/
